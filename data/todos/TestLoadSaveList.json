@@ -1,0 +1,26 @@
+{
+    "name": "TestLoadSaveList",
+    "tasks": [
+        {
+            "completedTime": "2021-09-25T23:13:35.714471100",
+            "name": "Opening Task list",
+            "description": "Did it just now",
+            "status": "COMPLETED"
+        },
+        {
+            "name": "Practicing Java",
+            "description": "Good boy!",
+            "status": "ACTIVE"
+        },
+        {
+            "name": "Cleaning",
+            "description": "Everything",
+            "status": "PENDING"
+        },
+        {
+            "name": "Go outside",
+            "description": "",
+            "status": "PENDING"
+        }
+    ]
+}
