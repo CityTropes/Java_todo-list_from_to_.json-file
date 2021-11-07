@@ -9,5 +9,5 @@ Input/output via console (and .json-files):
 -add tasks (via task builder),
 -update status (pending, active, completed + timestamp).
 
-Some spaghetti-code...
+Some spaghetti-code... todo: change class Actions.java
 Next up: clean code, add features.
